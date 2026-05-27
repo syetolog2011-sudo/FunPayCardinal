@@ -1,1 +1,10 @@
 pytelegrambotapi==4.15.2
+psutil
+beautifulsoup4
+colorama
+requests
+pillow
+requests_toolbelt
+lxml
+bcrypt
+pysocks
